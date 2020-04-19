@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Apr 21 15:26:29 CST 2019
+@default-public-http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1555831589725
+http\://maven.aliyun.com/nexus/content/groups/public/.error=Could not transfer artifact io.springfox\:springfox-swagger2\:pom\:2.7.0 from/to alimaven (http\://maven.aliyun.com/nexus/content/groups/public/)\: maven.aliyun.com
+@default-alimaven-http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1555831589738

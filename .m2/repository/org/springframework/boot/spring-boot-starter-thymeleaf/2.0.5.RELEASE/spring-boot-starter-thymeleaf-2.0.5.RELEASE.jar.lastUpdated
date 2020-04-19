@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Apr 03 15:40:04 CST 2019
+@default-Nexus-http\://192.168.83.99\:8081/content/groups/public/.lastUpdated=1554277177196
+http\://192.168.83.99\:8081/content/groups/public/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-thymeleaf\:jar\:2.0.5.RELEASE from/to Nexus (http\://192.168.83.99\:8081/content/groups/public/)\: Connect to 192.168.83.99\:8081 [/192.168.83.99] failed\: Connection timed out\: connect
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1554277204963

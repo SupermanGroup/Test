@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Jan 15 15:02:51 CST 2019
+jdependency-0.7.jar>central=
+jdependency-0.7.pom>central=
+jdependency-0.7.jar>Nexus=
+jdependency-0.7.pom>Nexus=

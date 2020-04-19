@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Apr 03 15:56:08 CST 2019
+logback-core-1.1.11.pom>Nexus=
+logback-core-1.1.11.jar>Nexus=
+logback-core-1.1.11.jar>alimaven=
+logback-core-1.1.11.pom>alimaven=
+logback-core-1.1.11-sources.jar>alimaven=

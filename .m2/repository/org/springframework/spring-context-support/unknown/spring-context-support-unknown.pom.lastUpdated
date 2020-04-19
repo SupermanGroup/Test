@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Apr 21 15:26:28 CST 2019
+@default-public-http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1555831588843
+@default-Nexus-http\://192.168.83.99\:8081/content/groups/public/.lastUpdated=1554185695843
+http\://maven.aliyun.com/nexus/content/groups/public/.error=Could not transfer artifact org.springframework\:spring-context-support\:pom\:unknown from/to alimaven (http\://maven.aliyun.com/nexus/content/groups/public/)\: maven.aliyun.com
+http\://192.168.83.99\:8081/content/groups/public/.error=Could not transfer artifact org.springframework\:spring-context-support\:pom\:unknown from/to Nexus (http\://192.168.83.99\:8081/content/groups/public/)\: Connect to 192.168.83.99\:8081 [/192.168.83.99] failed\: Connection timed out\: connect
+@default-alimaven-http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1555831588858
